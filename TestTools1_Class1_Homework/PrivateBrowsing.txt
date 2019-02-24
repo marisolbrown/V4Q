@@ -1,0 +1,10 @@
+-When you are in Private Browsing it does not save visited pages, searches, cookies or temporary files.
+-With Private Browsing content is blocked which it blocks parts of the page that can track you online.
+-While in Private Browsing parts of pages or entire pages are kept from loading due to the content blocking.
+-Sometimes content blocking can prevent a trusted site from loading but you can turn off blocing temporarily.
+-After navigating through different pages the I verified that the Cookies and History folders were empty, unlike the normal mode
+populates a lot of cookies after visiting just one page and instantly saving the visited pages in the History folder.
+
+Private Browsing can be great while testing because it gives a clean copy of the browser, which it means that any
+cached content and active extensions that are present on normal browsing will not be present while in Private Browsing,
+therefore minimizing unexpected conflict and making testing smoother.
