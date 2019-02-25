@@ -1,0 +1,3 @@
+This is a file I added so you can see how branches and PRs work
+I will submit this as a PR, and you can choose to merge it into your master.
+Don't forget to git pull on your local machine once you merge.
